@@ -1,0 +1,28 @@
+{
+  "name": "jslogging",
+  "version": "1.0.0",
+  "description": "Class based on Winston for logging JavaScript. MIT license.",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedeveaux/jslogging.git"
+  },
+  "keywords": [
+    "MIT",
+    "logging",
+    "Winston",
+    "Node"
+  ],
+  "author": "Paul E Deveaux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedeveaux/jslogging/issues"
+  },
+  "homepage": "https://github.com/pedeveaux/jslogging#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
